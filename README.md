@@ -6,8 +6,7 @@ https://stackoverflow.com/questions/51564841/creating-nested-dataclass-objects-i
 ## Getting Started
 
 ```shell
-python setup.py sdist
-pip install ./dist/nesteddataclasses-1.0.tar.gz
+pip install git+https://github.com/mububoki/nested-dataclasses.git
 ```
 
 ## Sample
